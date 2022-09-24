@@ -4,7 +4,7 @@
 
 ## Install 
 
-Just download and install 
+[Just download and install](https://relictum.tech/rcnode.stage.beta.exe)
 
 ```
 <finance-widget api-key="RELICTUM_FINANCE" type="widget" lang="en"></finance-widget>
