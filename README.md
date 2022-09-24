@@ -1,10 +1,10 @@
-# Widget Finance
+# Widget Finance Beta version
 
 ![screen png](screen.png "Title")
 
 ## Install 
 
-Just include tags in any part of html page
+Just download and install 
 
 ```
 <finance-widget api-key="RELICTUM_FINANCE" type="widget" lang="en"></finance-widget>
